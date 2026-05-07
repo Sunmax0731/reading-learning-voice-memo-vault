@@ -1,0 +1,21 @@
+{
+  "product": {
+    "repository": "reading-learning-voice-memo-vault",
+    "title": "読書・学習・音声メモ保管庫"
+  },
+  "items": [
+    {
+      "id": "reading-learning-voice-memo-vault-happy",
+      "title": "読書・学習・音声メモ保管庫 happy",
+      "status": "ready",
+      "tags": [
+        "androidapp"
+      ],
+      "sourceTitle": "Sample Book",
+      "memoText": "学習メモ本文",
+      "reviewCard": "復習カード1",
+      "owner": "closed-alpha",
+      "audioNote": "読書・学習・音声メモ保管庫 の確認観点"
+    }
+  ]
+}

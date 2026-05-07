@@ -1,0 +1,66 @@
+{
+  "rank": 80,
+  "domain": "AndroidApp",
+  "ideaNo": 5,
+  "ideaName": "読書・学習・音声メモ保管庫",
+  "repository": "reading-learning-voice-memo-vault",
+  "publish": "Google Play",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/AndroidApp/created_idea_005_reading-learning-voice-memo-vault",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/AndroidApp/created_idea_005_reading-learning-voice-memo-vault/idea_005_reading-learning-voice-memo-vault.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "AndroidApp",
+    "no": 5,
+    "platform": "AndroidApp",
+    "field": "学習・メモ",
+    "integration": "",
+    "idea": "読書・学習・音声メモ保管庫",
+    "overview": "読書、記事、動画、語学、暗記カード、音声記録、即時タグ分類をスマホで扱い、要約と復習カードに回す。",
+    "problem": "学習メモや音声メモは入力しやすいが、復習や再利用につながりにくい。",
+    "similar": "AnkiDroid, Readwise, Pocket, Otter.ai, Notion",
+    "diff": "移動中の短い記録をタグ、復習、検索に回せる個人学習メモにする。",
+    "parent": "Apps",
+    "startPromptFile": "START_PROMPT.md",
+    "documents": [
+      "START_PROMPT.md",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md",
+      "metadata.json"
+    ],
+    "repositoryName": "reading-learning-voice-memo-vault",
+    "repositoryTitle": "reading-learning-voice-memo-vault",
+    "zipFile": "idea_005_reading-learning-voice-memo-vault.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}
