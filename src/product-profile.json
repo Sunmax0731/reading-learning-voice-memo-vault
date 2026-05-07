@@ -1,0 +1,32 @@
+{
+  "repository": "reading-learning-voice-memo-vault",
+  "title": "読書・学習・音声メモ保管庫",
+  "domain": "AndroidApp",
+  "hostApp": null,
+  "rank": 80,
+  "tier": "P2",
+  "ideaNo": 5,
+  "overview": "読書、記事、動画、語学、暗記カード、音声記録、即時タグ分類をスマホで扱い、要約と復習カードに回す。",
+  "problem": "学習メモや音声メモは入力しやすいが、復習や再利用につながりにくい。",
+  "differentiation": "移動中の短い記録をタグ、復習、検索に回せる個人学習メモにする。",
+  "publish": "Google Play",
+  "surface": "AndroidApp product spec + CLI validation core",
+  "entity": "learning memo",
+  "requiredFields": [
+    "id",
+    "title",
+    "sourceTitle",
+    "memoText",
+    "reviewCard",
+    "owner"
+  ],
+  "warningField": "audioNote",
+  "qcdsManualTestCap": "S-",
+  "qcdsTarget": "A-",
+  "benchmarkRepos": [
+    "Sunmax0731/project-portfolio-generator",
+    "Sunmax0731/release-output-check-flow",
+    "Sunmax0731/movie-telop-transcriber",
+    "Sunmax0731/codex-remote-android"
+  ]
+}
