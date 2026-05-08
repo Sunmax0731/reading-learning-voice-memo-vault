@@ -1,0 +1,18 @@
+{
+  "product": "reading-learning-voice-memo-vault",
+  "packageName": "com.sunmax0731.readinglearningvoicememovault",
+  "build": {
+    "apk": "dist/reading-learning-voice-memo-vault-debug.apk",
+    "method": "android-sdk-aapt2-d8-apksigner"
+  },
+  "launch": {
+    "started": true,
+    "activity": ".MainActivity",
+    "amStartStatusOk": true,
+    "pid": "6888"
+  },
+  "emulator": {
+    "avd": "CodexApi30"
+  },
+  "manualTest": "not-run-by-codex"
+}
