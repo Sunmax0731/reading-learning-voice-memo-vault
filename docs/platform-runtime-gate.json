@@ -1,0 +1,14 @@
+{
+  "product": "reading-learning-voice-memo-vault",
+  "title": "読書・学習・音声メモ保管庫",
+  "domain": "AndroidApp",
+  "ideaNo": 5,
+  "platformType": "android-emulator",
+  "expectedPublicTarget": "Google Play",
+  "browser": null,
+  "android": {
+    "packageName": "com.sunmax0731.readinglearningvoicememovault",
+    "evidence": "dist/android-emulator-result.json"
+  },
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
